@@ -1,0 +1,3 @@
+# Auto Configure。配置此属性才能让HelloServiceAutoConfiguration类被SpringBoot加载到。
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+me.god.boot.hello.HelloServiceAutoConfiguration
